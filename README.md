@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyakam-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="satyakam-nayak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyakam-nayak" alt="satyakam-nayak" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0PtE0JgmkDVjf4h0NEIk5I&ust=1671791220799000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDH99-BjfwCFQAAAAAdAAAAABAE" alt="animesh-singh02" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/animesh_singh02" target="blank"><img src="https://img.shields.io/twitter/follow/satyakamnayak2?logo=twitter&style=for-the-badge" alt="satyakamnayak2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/animesh_singh02" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTwitter&psig=AOvVaw1ccCNvnm-UJ7s7i3UN41wh&ust=1671791289311000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiOzoCCjfwCFQAAAAAdAAAAABAE" alt="animesh_singh02" /></a> </p>
 
 - 🔭 I’m pursuing B.Tech from **Kalinga Institute of Industrial Technology**
 
